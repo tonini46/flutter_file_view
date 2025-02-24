@@ -10,7 +10,7 @@ environment:
   flutter: ">=2.5.0"
 
 dependencies:
-  dio: ^4.0.0
+  dio: ^5.8.0+1
   flutter:
     sdk: flutter
 
